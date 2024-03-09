@@ -54,4 +54,4 @@ the program allows users to toggle the mute/unmute status of specific audio inpu
 
 ## license
 
-this project is licensed under the mit license - see the [license](license) file for details.
+this project is licensed under the mit license - see the [license](LICENSE) file for details.
