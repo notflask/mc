@@ -17,7 +17,6 @@ the program allows users to toggle the mute/unmute status of specific audio inpu
   - [examples](#examples)
 - [dependencies](#dependencies)
 - [build instructions](#build-instructions)
-- [contributions](#contributions)
 - [license](#license)
 
 ## usage
